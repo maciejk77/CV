@@ -1,7 +1,7 @@
 # **Maciek Kurek**
 ###### pronounced: [ Ma-ts-e-ek ]
 
-Previously acomplished digital marketer (gaming and telco) turned developer in March 2015 when I have decided to pursue my passion for technology by completing intensive coding bootcamp. 
+Web Developer who retrained in March 2015 at Makers Academy. Previously accomplished digital marketer at gaming and telco companies, seeking an opportunity to contribute with the range of skills,  passion for web technology an insatiable hunger for knowledge.  
 
 ## Skills
 
