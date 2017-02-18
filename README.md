@@ -1,6 +1,6 @@
-# Maciek Kurek
+# **Maciek Kurek**
 
-Previously highly acomplished digital marketer (gaming and telco) turned developer in March 2015 when I have decided to pursue my passion for technology by completing intensive coding bootcamp. My core commercial experience and interest lies in UI, Front End and JavaScript including Node.js on the back end. However, I am language agnostic and continuously learn new technologies as required.
+Previously acomplished digital marketer (gaming and telco) turned developer in March 2015 when I have decided to pursue my passion for technology by completing intensive coding bootcamp. My core commercial experience and interest lies in UI, Front End and JavaScript including Node.js on the back end. However, I am language agnostic and continuously learn new technologies as required.
 
 ## Skills
 
@@ -62,33 +62,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ### Technical / Developer experience 
 
 **Smartfocus** (Sept 2016 - Mar 2017)    
-*Technical Account Manager*
-*Technology*: HTML, CSS, JavaScript, SQL, APIs  
+- *Technical Account Manager*
+- *Technology*: HTML, CSS, JavaScript, SQL, APIs  
 
 **Immediate Media** (Mar 2016 - June 2016)   
-*Junior UI Developer*  
-*Technology*: HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile
+- *Junior UI Developer*  
+- *Technology*: HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile
 
 **Ensighten** (Oct 2015 - Feb 2016)    
-*Web Analyst*
-*JavaScript, jQuery, JSON, AJAX, browser testing and debugging*  
+- *Web Analyst*
+- *JavaScript, jQuery, JSON, AJAX, browser testing and debugging*  
 
 ### Digital Marketing career prior retraining at Makers Academy
 
 **Lebara** (Dec 2013 - Dec 2014)    
-*Country Manager UK, NED, POL*  
+- *Country Manager UK, NED, POL*  
 
 **Unibet** (Apr 2012 - Nov 2013)    
-*Country Manager Poland*  
+- *Country Manager Poland*  
 
 **Betclic** (Feb 2011 - Mar 2012)    
-*Key Affiliates Account Manager* 
+- *Key Affiliates Account Manager* 
 
 **Pinnacle Sports** (Nov 2017 - Jan 2011)    
-*Marketing Executive* 
+- *Marketing Executive* 
 
 **Ladbrokes** (June 2006 - Oct 2007)    
-*Sportsbook Affiliates Executive / CRM Executive* 
+- *Sportsbook Affiliates Executive / CRM Executive* 
 
 **Sportingbet** (Apr 2005 - May 2006)    
-*Customer Service / Marketing Assistant* 
+- *Customer Service / Marketing Assistant* 
