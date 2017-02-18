@@ -64,7 +64,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Smartfocus** (Sept 2016 - Mar 2017) | **Technical Account Manager**
 - Onboarding customers onto Smartfocus platform and ensuring successful integration with client systems
 - Technical configuration of accounts and services, data onboarding 
-- *HTML, CSS, JavaScript, SQL, APIs*  
+- **HTML, CSS, JavaScript, SQL, APIs**  
 
 **Immediate Media** (Mar 2016 - June 2016) | **Junior UI Developer**   
 - Maintaining existing websites of the portfolio
@@ -72,7 +72,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Researching various topics e.g. Gulp set up, SVG optimisation
 - Prototyping using Fabricator with Mid and Lead Developer
 - Working in 2 week sprints and Agile environment
-:rocket `` HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile ``
+- `` HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile ``
 
 **Ensighten** (Oct 2015 - Feb 2016) | **Web Analyst**
 - Resolving web analytics tag management queries, 
