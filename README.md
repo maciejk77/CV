@@ -65,10 +65,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - *Technical Account Manager*
 - *Technology*: HTML, CSS, JavaScript, SQL, APIs  
 
-**Immediate Media** (Mar 2016 - June 2016)   
-Onboarding customers onto Smartfocus platform and ensuring successful integration with client systems | Technical configuration of accounts and services, data onboarding
-- *Junior UI Developer*  
-- *Technology*: HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile
+**Immediate Media** (Mar 2016 - June 2016) | *Junior UI Developer*   
+- Onboarding customers onto Smartfocus platform and ensuring successful integration with client systems
+- Technical configuration of accounts and services, data onboarding 
+- **HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile**
 
 **Ensighten** (Oct 2015 - Feb 2016)    
 - *Web Analyst*
