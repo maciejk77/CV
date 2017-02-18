@@ -67,17 +67,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **HTML, CSS, JavaScript, SQL, APIs**  
 
 **Immediate Media** (Mar 2016 - June 2016) | **Junior UI Developer**   
-- Maintaining existing websites of the portfolio
-- Creating modules for new content platform eg. footer, navigation, article
-- Researching various topics e.g. Gulp set up, SVG optimisation
-- Prototyping using Fabricator with Mid and Lead Developer
-- Working in 2 week sprints and Agile environment
+- *Maintaining existing websites of the portfolio*
+- *Creating modules for new content platform eg. footer, navigation, article*
+- *Researching various topics e.g. Gulp set up, SVG optimisation*
+- *Prototyping using Fabricator with Mid and Lead Developer*
+- *Working in 2 week sprints and Agile environment*
 - **HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile**
 
 **Ensighten** (Oct 2015 - Feb 2016) | **Web Analyst**
-- Resolving web analytics tag management queries, 
-- Setting up campaigns and technical support to clients
-- *JavaScript, jQuery, JSON, AJAX, browser testing and debugging*  
+- *Resolving web analytics tag management queries* 
+- *Setting up campaigns and technical support to clients*
+- **JavaScript, jQuery, JSON, AJAX, browser testing and debugging**  
 
 ### Digital Marketing career prior retraining at Makers Academy
 
