@@ -1,26 +1,7 @@
 # **Maciek Kurek**
-###### pronounced: [ m AH - t s EE - eh k ]
+###### pronounced: [ Ma-ts-e-ek ]
 
 Previously acomplished digital marketer (gaming and telco) turned developer in March 2015 when I have decided to pursue my passion for technology by completing intensive coding bootcamp. My core commercial experience and interest lies in UI, Front End and JavaScript including Node.js on the back end. However, I am language agnostic and continuously learn new technologies as required.
-
-## Skills
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
