@@ -35,7 +35,7 @@ My core commercial experience and interest lies in **UI, Front End and JavaScrip
 - Master's Degree in Management and Production Engineering
 
 
-#### Any other qualifications
+#### Other skills
 
 - **Agile methodology**: part of Scrum teams twice a day for 3 months while in training at Makers Academy. I also received structured training and worked in Agile team at Immediate Media (daily Scrums, 2 weeks Sprints)
 
