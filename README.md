@@ -55,38 +55,40 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - **Pair programming**: I have been enjoying the process of being a Driver and Navigator to exchange ideas, accelerate learning speed and knowledge sharing, maintaining clean and reusable code. Social and fun aspect is a nice bonus!
 
-- **Mentoring and self development**: I have been seeking ways to engage with tech community by attending meet ups, volunteering at codebar.io, and mentoring colleagues remotely in pair programming sessions
+- **Mentoring and self development**: I have been seeking ways to engage with tech community by attending meet ups, volunteering at codebar.io, and mentoring colleagues remotely in pair programming sessions. I also attended remote Scrums at AgileVentures.org (a platform for remote learning and collaboration)
 
 ## Experience
+
+### Technical / Developer experience 
 
 **Smartfocus** (Sept 2016 - Mar 2017)    
 *Technical Account Manager*
 *Technology*: HTML, CSS, JavaScript, SQL, APIs  
 
-**Immediate Media** (start_date to end_date)   
+**Immediate Media** (Mar 2016 - June 2016)   
 *Junior UI Developer*  
 *Technology*: HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile
 
-**Ensighten** (start_date to end_date)    
+**Ensighten** (Oct 2015 - Feb 2016)    
 *Web Analyst*
 *JavaScript, jQuery, JSON, AJAX, browser testing and debugging*  
 
-### My Digital Marketing career prior retraining at Makers Academy
+### Digital Marketing career prior retraining at Makers Academy
 
-**Lebara** (start_date to end_date)    
+**Lebara** (Dec 2013 - Dec 2014)    
 *Country Manager UK, NED, POL*  
 
-**Unibet** (start_date to end_date)    
+**Unibet** (Apr 2012 - Nov 2013)    
 *Country Manager Poland*  
 
-**Betclic** (start_date to end_date)    
-*Key Affiliates Account Manager * 
+**Betclic** (Feb 2011 - Mar 2012)    
+*Key Affiliates Account Manager* 
 
-**Pinnacle Sports** (start_date to end_date)    
+**Pinnacle Sports** (Nov 2017 - Jan 2011)    
 *Marketing Executive* 
 
-**Ladbrokes** (start_date to end_date)    
+**Ladbrokes** (June 2006 - Oct 2007)    
 *Sportsbook Affiliates Executive / CRM Executive* 
 
-**Sportingbet** (start_date to end_date)    
+**Sportingbet** (Apr 2005 - May 2006)    
 *Customer Service / Marketing Assistant* 
