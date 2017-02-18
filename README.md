@@ -7,7 +7,7 @@ Previously acomplished digital marketer (gaming and telco) turned developer in M
 
 My core commercial experience and interest lies in **UI, Front End and JavaScript including Node.js on the back end**. However, I am language agnostic and continuously learn new technologies as required.
 
-- Commercial experience: **HTML, CSS, Sass, Bootstrap, JavaScript, Gulp, Git, AJAX, Agile, APIs*
+- Commercial experience: **HTML, CSS, Sass, Bootstrap, JavaScript, Gulp, Git, AJAX, Agile, APIs**
 - Peronal projects: **Angular, React, ES6, Node/Express**
 - Additional: SEO, digital marketing, email marketing, ad serving, account management, web analytics 
 
