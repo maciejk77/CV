@@ -1,4 +1,4 @@
-## Maciek Kurek
+# Maciek Kurek
 
 Previously highly acomplished digital marketer (gaming and telco) turned developer in March 2015 when I have decided to pursue my passion for technology by completing intensive coding bootcamp. My core commercial experience and interest lies in UI, Front End and JavaScript including Node.js on the back end. However, I am language agnostic and continuously learn new technologies as required.
 
@@ -47,19 +47,46 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-- Agile methodology: part of Scrum teams twice a day for 3 months while in training at Makers Academy. I also received structured training and worked in Agile team at Immediate Media
+- **Agile methodology**: part of Scrum teams twice a day for 3 months while in training at Makers Academy. I also received structured training and worked in Agile team at Immediate Media (daily Scrums, 2 weeks Sprints)
 
-- TDD/BDD: where possible I follow the principles of BDD by writing user stories first, constant iteration and gradual progression on the basis of passed tests (TDD)
+- **TDD/BDD**: where possible I follow the principles of BDD by writing user stories first, constant iteration and gradual progression on the basis of passed tests (TDD)
 
-- Proactive learning: I have gained practical experience in development by finding relevant information quickly. I tend to learn fast any technologies as required
+- **Proactive learning**: I have gained practical experience in development by finding relevant information quickly. I tend to learn fast any technologies as required
 
-- Pair programming: I have been enjoying the process of being a Driver and Navigator to exchange ideas, accelerate learning speed and knowledge sharing, maintaining clean and reusable code. Social and fun aspect is a nice bonus!
+- **Pair programming**: I have been enjoying the process of being a Driver and Navigator to exchange ideas, accelerate learning speed and knowledge sharing, maintaining clean and reusable code. Social and fun aspect is a nice bonus!
 
-- Mentoring and self development: I have been seeking ways to engage with tech community by attending meet ups, volunteering at codebar.io, and mentoring colleagues remotely in pair programming sessions
+- **Mentoring and self development**: I have been seeking ways to engage with tech community by attending meet ups, volunteering at codebar.io, and mentoring colleagues remotely in pair programming sessions
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Smartfocus** (Sept 2016 - Mar 2017)    
+*Technical Account Manager*
+*Technology*: HTML, CSS, JavaScript, SQL, APIs  
+
+**Immediate Media** (start_date to end_date)   
+*Junior UI Developer*  
+*Technology*: HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile
+
+**Ensighten** (start_date to end_date)    
+*Web Analyst*
+*JavaScript, jQuery, JSON, AJAX, browser testing and debugging*  
+
+### My Digital Marketing career prior retraining at Makers Academy
+
+**Lebara** (start_date to end_date)    
+*Country Manager UK, NED, POL*  
+
+**Unibet** (start_date to end_date)    
+*Country Manager Poland*  
+
+**Betclic** (start_date to end_date)    
+*Key Affiliates Account Manager * 
+
+**Pinnacle Sports** (start_date to end_date)    
+*Marketing Executive* 
+
+**Ladbrokes** (start_date to end_date)    
+*Sportsbook Affiliates Executive / CRM Executive* 
+
+**Sportingbet** (start_date to end_date)    
+*Customer Service / Marketing Assistant* 
