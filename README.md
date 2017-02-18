@@ -85,7 +85,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Unibet** (Apr 2012 - Nov 2013) | **Country Manager Poland**  
 
-**Betclic** (Feb 2011 - Mar 2012) |**Key Affiliates Account Manager** 
+**Betclic** (Feb 2011 - Mar 2012) | **Key Affiliates Account Manager** 
 
 **Pinnacle Sports** (Nov 2017 - Jan 2011) | **Marketing Executive** 
 
