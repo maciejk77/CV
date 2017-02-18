@@ -66,6 +66,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - *Technology*: HTML, CSS, JavaScript, SQL, APIs  
 
 **Immediate Media** (Mar 2016 - June 2016)   
+Onboarding customers onto Smartfocus platform and ensuring successful integration with client systems | Technical configuration of accounts and services, data onboarding
 - *Junior UI Developer*  
 - *Technology*: HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile
 
