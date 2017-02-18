@@ -61,13 +61,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ### Technical / Developer experience 
 
-**Smartfocus** (Sept 2016 - Mar 2017)    
+**Smartfocus** (Sept 2016 - Mar 2017)
+Onboarding customers onto Smartfocus platform and ensuring successful integration with client systems. Technical configuration of accounts and services, data onboarding 
 - *Technical Account Manager*
-- *Technology*: HTML, CSS, JavaScript, SQL, APIs  
+- *HTML, CSS, JavaScript, SQL, APIs*  
 
-**Immediate Media** (Mar 2016 - June 2016) | *Junior UI Developer*   
-- Onboarding customers onto Smartfocus platform and ensuring successful integration with client systems
-- Technical configuration of accounts and services, data onboarding 
+**Immediate Media** (Mar 2016 - June 2016) | **Junior UI Developer**   
 - **HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile**
 
 **Ensighten** (Oct 2015 - Feb 2016)    
