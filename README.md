@@ -67,7 +67,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **HTML, CSS, JavaScript, SQL, APIs**  
 
 **Immediate Media** (Mar 2016 - June 2016) | **Junior UI Developer**   
-- *Maintaining existing websites of the portfolio*
+- *Maintaining existing websites of the portfolio e.g. Gardener's World*
 - *Creating modules for new content platform eg. footer, navigation, article*
 - *Researching various topics e.g. Gulp set up, SVG optimisation*
 - *Prototyping using Fabricator with Mid and Lead Developer*
@@ -81,20 +81,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ### Digital Marketing career prior retraining at Makers Academy
 
-**Lebara** (Dec 2013 - Dec 2014)    
-- *Country Manager UK, NED, POL*  
+**Lebara** (Dec 2013 - Dec 2014) | **Country Manager UK, NED, POL**  
 
-**Unibet** (Apr 2012 - Nov 2013)    
-- *Country Manager Poland*  
+**Unibet** (Apr 2012 - Nov 2013) | **Country Manager Poland**  
 
-**Betclic** (Feb 2011 - Mar 2012)    
-- *Key Affiliates Account Manager* 
+**Betclic** (Feb 2011 - Mar 2012) |**Key Affiliates Account Manager** 
 
-**Pinnacle Sports** (Nov 2017 - Jan 2011)    
-- *Marketing Executive* 
+**Pinnacle Sports** (Nov 2017 - Jan 2011) | **Marketing Executive** 
 
-**Ladbrokes** (June 2006 - Oct 2007)    
-- *Sportsbook Affiliates Executive / CRM Executive* 
+**Ladbrokes** (June 2006 - Oct 2007) | **Sportsbook Affiliates Executive / CRM Executive** 
 
-**Sportingbet** (Apr 2005 - May 2006)    
-- *Customer Service / Marketing Assistant* 
+**Sportingbet** (Apr 2005 - May 2006) | **Customer Service / Marketing Assistant** 
