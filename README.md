@@ -1,7 +1,7 @@
 # **Maciek Kurek**
 ###### pronounced: [ Ma-ts-e-ek ]
 
-Web Developer who retrained in March 2015 at Makers Academy. Previously accomplished digital marketer at gaming and telco companies, seeking an opportunity to contribute with the range of skills,  passion for web technology an insatiable hunger for knowledge.  
+**Web Developer** who retrained in March 2015 at Makers Academy. Previously accomplished digital marketer at gaming and telco companies, seeking an opportunity to contribute with the range of **skills, commercial experience, passion** for web technology and insatiable **hunger for knowledge**  
 
 ## Skills
 
