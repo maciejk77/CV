@@ -72,7 +72,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Researching various topics e.g. Gulp set up, SVG optimisation
 - Prototyping using Fabricator with Mid and Lead Developer
 - Working in 2 week sprints and Agile environment
-* `` HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile ``
+:rocket `` HTML, CSS(Bem), Bootstrap, Sass, JavaScript, Gulp, Handlebars, Git, Agile ``
 
 **Ensighten** (Oct 2015 - Feb 2016) | **Web Analyst**
 - Resolving web analytics tag management queries, 
